@@ -12,10 +12,13 @@ h1 {
 
 p {
     color: green;
+    position: relative;
     font-size: 24pt;
     background-color: lightgreen;
     opacity: .5;
     width: 60%;
+    text-align: center;
+    
 }
 
 a {
